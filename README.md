@@ -12,5 +12,6 @@ Lecture 1: Framing
 
 ### Regeression Vs. Classification
 Regression = predict the housing price given a set of features
+
 Classification = is this image a dog given a set of features.
 
